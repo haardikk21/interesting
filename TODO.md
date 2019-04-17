@@ -59,7 +59,7 @@ Will use the **'If I don't do X, Y happens'** approach
     - If I don't do this, I will be procrastinating and blocking important work from FlexFinTx and prevent it from succeeding
   - Take some me time
     - If I don't do this, I might lose my sanity.
-    - me time == divita time
+    - me time 8=======Divita time
 
 - **Monday April 22nd**:
 
