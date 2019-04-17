@@ -44,6 +44,7 @@ Will use the **'If I don't do X, Y happens'** approach
   - Explore Algorand TestNet, and set up a test node on my device
     - If I don't do this, I cannot start writing the blog post for Algorand and represent UWBC poorly
   - Start making notes on the testnet setup
+    - If I don't do this, I won't have content for the blog post and just wasted time exploring the testnet
 
 - **Saturday April 20th**:
 
