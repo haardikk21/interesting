@@ -58,6 +58,8 @@ Will use the **'If I don't do X, Y happens'** approach
   - Research Twilio SMS, and how to integrate it into the network. Build registration flow and show banking options
     - If I don't do this, I will be procrastinating and blocking important work from FlexFinTx and prevent it from succeeding
   - Take some me time
+    - If I don't do this, I might lose my sanity.
+    - (I was forced to do this) me time == divita time
 
 - **Monday April 22nd**:
 
