@@ -25,16 +25,16 @@
 
 Will use the **'If I don't do X, Y happens'** approach
 
-- **Wednesday April 17th**
+- **Wednesday April 17th** [x]
 
   - Work on converting system to talk with blockchain throughout existing endpoints.
     - If I don't do this, I cannot add other endpoints and am blocking the work required for FlexFinTx to succeed.
 
-- **Thursday April 18th**:
+- **Thursday April 18th**: [x]
 
   - Continue work on converting system to talk with blockchain throughout existing endpoints
     - If I don't do this, I am blocking future work and FlexFinTx from succeeding
-  - Talk to Victoria from Ripple, to discuss an event for UWBC in the summer
+  - **(Deferred: Victoria didn't reply)** Talk to Victoria from Ripple, to discuss an event for UWBC in the summer
     - If I don't do this, I am representing UWBC poorly
 
 - **Friday April 19th**:
