@@ -37,7 +37,7 @@ Will use the **'If I don't do X, Y happens'** approach
   - **(Deferred: Victoria didn't reply)** Talk to Victoria from Ripple, to discuss an event for UWBC in the summer
     - If I don't do this, I am representing UWBC poorly
 
-- **Friday April 19th**:
+- **Friday April 19th**: [x]
 
   - Start adding new endpoints for other models on the network
     - If I don't do this, I cannot start integrating SMS/USSD and am blocking future work and FlexFinTx from succeeding
@@ -46,35 +46,51 @@ Will use the **'If I don't do X, Y happens'** approach
   - Start making notes on the testnet setup
     - If I don't do this, I won't have content for the blog post and just wasted time exploring the testnet
 
-- **Saturday April 20th**:
+- **Saturday April 20th**: [x]
 
-  - Finish adding new endpoints for other models on the network
+  - Finish adding new endpoints for other models on the network [x]
     - If I don't do this, I cannot start integrating SMS/USSD and am blocking future work and FlexFinTx from succeeding
-  - Finish writing blog post on Algorand TestNet and summary
-    - If I don't do this, I will be representing UWBC poorly
+  - ~~Finish writing blog post on Algorand TestNet and summary~~
+    - ~~If I don't do this, I will be representing UWBC poorly~~
 
-- **Sunday April 21st**:
+- **Sunday April 21st**: [x]
 
-  - Research Twilio SMS, and how to integrate it into the network. Build registration flow and show banking options
-    - If I don't do this, I will be procrastinating and blocking important work from FlexFinTx and prevent it from succeeding
+  - ~~Research Twilio SMS, and how to integrate it into the network. Build registration flow and show banking options~~
+    - ~~If I don't do this, I will be procrastinating and blocking important work from FlexFinTx and prevent it from succeeding~~
   - Take some me time
     - If I don't do this, I might lose my sanity.
     - me time 8=======Divita time
 
-- **Monday April 22nd**:
+- **Monday April 22nd**: [x]
 
-  - Build out more of the twilio SMS integration. Add other user flows that are required.
-    - If I don't do this, I will be procrastinating and blocking important work from FlexFinTx and prevent it from succeeding
+  - ~~Build out more of the twilio SMS integration. Add other user flows that are required.~~
+    - ~~If I don't do this, I will be procrastinating and blocking important work from FlexFinTx and prevent it from succeeding~~
+  - Finish adding endpoints
+    - If I don't do this, I will be blocking important work from FlexFinTx
+  - Research Twilio SMS
 
-- **Tuesday April 23rd**:
+* **Tuesday April 23rd**:
 
-  - Finish Twilio SMS integration
+  - Start Twilio SMS integration
     - If I don't do this, I will be procrastinating and blocking important work from FlexFinTx
-  - Research USSD integration and how to add it to Go
-    - If I don't do this, I will be blocking an important feature from FlexFinTx and prevent it from shipping or going out to media
+  - Finish blog post for Algorand TestNet
+    - If I don't do this, I am representing UWBC poorly and poor job as an Algorand Ambassador
 
-- **Wednesday April 24th**:
-  - Call UWBC executive position applicants, and explain to them the UWBC vision, what we do, why we do it, and get to learn more about their past experiences, why they're interested in it, and their goals and expectations from working for UWBC
-    - If I don't do this, I will be representing UWBC poorly and set a bad example for upcoming terms
+* **Wednesday April 24th**:
+
+  - Keep doing Twilio Integration
+    - If I don't do this, I will be procrastinating and blocking important work from FlexFinTx
+  - Refactor smart contract, look into ABAC
+    - If I don't do this, we can't start testing the flow. Also need to increase security of the smart contract.
+
+* **Thursday April 25th**:
+
+  - Research USSD in Golang
+    - if i dont do this, cant take the app to scale
+  - finish twilio integration
+    - if i dont do this, cant test the app for demo
+
+* **Friday April 26th**:
+
   - Start integrating USSD in FlexFinTx code and build basic registration flow
     - If I don't do this, I will be preventing adding an important feature to FlexFinTx and prevent it from succeeding or getting articles by the media
